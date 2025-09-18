@@ -1,6 +1,6 @@
 # Hi, I'm Hardyansh Sharma 👋
 
-**Pre-Final Year | Full Stack Developer | Java Spring Boot & MERN Stack**
+**Pre-Final Year @IIIT Ranchi | Full Stack Developer | Java Spring Boot & MERN Stack**
 
 ---
 
