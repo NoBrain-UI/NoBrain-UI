@@ -44,7 +44,7 @@ I enjoy solving complex **DSA problems**, creating **efficient systems**, and wo
 ---
 
 ## 📈 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=NoBrain-UI&show_icons=true&theme=radical)
+![Your GitHub Stats]([https://github-readme-stats.vercel.app/api?username=NoBrain-UI&show_icons=true&theme=radical](https://github-readme-stats.vercel.app/api?username=NoBrain-UI&show_icons=true&theme=radical&token=YOUR_NEW_TOKEN)
 
 ---
 
