@@ -21,7 +21,7 @@ I enjoy solving complex **DSA problems**, creating **efficient systems**, and wo
 - **Tech Stack:** Spring Boot, Java, PostgreSQL
 - Features: Wallet management, top-up/withdraw, freeze/unfreeze accounts, email notifications, in-app alerts
 - **Highlights:** Microservices-ready architecture, designed for scalability, asynchronous notifications
-- [GitHub Repo]([https://github.com/NoBrain-UI/Wallet_Payment_System])  
+- [GitHub Repo](https://github.com/NoBrain-UI/Wallet_Payment_System)
 
 ### 2. **Civic Pulse** 🏛️
 - **Tech Stack:** MERN Stack
