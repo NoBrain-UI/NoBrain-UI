@@ -42,9 +42,7 @@ I enjoy solving complex **DSA problems**, creating **efficient systems**, and wo
 - [GitHub Repo](https://github.com/NoBrain-UI/finance-edge)  
 
 ---
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NoBrain-UI&show_icons=true&theme=radical&token=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)
-
+![LeetCode Stats](https://leetcard.jacoblin.cool/SharmaFTW)
 ---
 
 ## 📫 Contact Me
