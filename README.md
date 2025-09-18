@@ -27,7 +27,7 @@ I enjoy solving complex **DSA problems**, creating **efficient systems**, and wo
 - **Tech Stack:** MERN Stack
 - Platform for civic engagement, community feedback, and reporting issues
 - **Highlights:** Real-time updates, user authentication, dashboard analytics
-- [GitHub Repo]([https://github.com/NoBrain-UI/civic-pulse](https://github.com/NoBrain-UI/CivicPulse))  
+- [GitHub Repo](https://github.com/NoBrain-UI/CivicPulse)
 
 ### 3. **Portfolio Website** 🌐
 - **Tech Stack:** React, HTML, CSS, JavaScript
