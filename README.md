@@ -43,6 +43,7 @@ I enjoy solving complex **DSA problems**, creating **efficient systems**, and wo
 
 ---
 ![LeetCode Stats](https://leetcard.jacoblin.cool/SharmaFTW?theme=dark&font=source_code_pro)
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-Profile-green?logo=geeksforgeeks)](https://www.geeksforgeeks.org/user/nobrain/)
 ---
 
 ## 📫 Contact Me
