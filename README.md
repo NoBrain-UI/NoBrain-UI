@@ -39,7 +39,7 @@ I enjoy solving complex **DSA problems**, creating **efficient systems**, and wo
 - **Tech Stack:** React, Node.js, Express, MongoDB
 - Finance analytics platform with dashboard and reporting features
 - **Highlights:** Data visualization, secure user management, REST APIs
-- [GitHub Repo](https://github.com/NoBrain-UI/finance-edge)  
+- [GitHub Repo](https://github.com/NoBrain-UI/expense-tracker)  
 
 ---
 ![LeetCode Stats](https://leetcard.jacoblin.cool/SharmaFTW?theme=dark&font=source_code_pro)
