@@ -41,10 +41,6 @@ I enjoy solving complex **DSA problems**, creating **efficient systems**, and wo
 - **Highlights:** Data visualization, secure user management, REST APIs
 - [GitHub Repo](https://github.com/NoBrain-UI/expense-tracker)  
 
----
-![LeetCode Stats](https://leetcard.jacoblin.cool/SharmaFTW?theme=dark&font=source_code_pro)
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-Profile-green?logo=geeksforgeeks)](https://www.geeksforgeeks.org/user/nobrain/)
----
 
 ## 📫 Contact Me
 - LinkedIn: [Hardyansh Sharma](https://www.linkedin.com/in/hardyansh-sharma-iiitr)
