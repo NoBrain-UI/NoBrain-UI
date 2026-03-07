@@ -1,52 +1,89 @@
-# Hi, I'm Hardyansh Sharma 👋
+<div align="center">
+  <h1>Hi, I'm Hardyansh Sharma! 👋</h1>
+  <h3>Pre-Final Year @ IIIT Ranchi | Full Stack Developer | Java Spring Boot & MERN Stack</h3>
+  
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Building+modern+web+apps+&+REST+APIs;Passionate+about+scalable+systems;DSA+enthusiast+%F0%9F%92%AA" alt="Typing SVG" />
+</div>
 
-**Pre-Final Year @IIIT Ranchi | Full Stack Developer | Java Spring Boot & MERN Stack.**
+<br/>
 
----
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,mongodb,express,react,nodejs,postgres,git,postman,docker,kubernetes&perline=7" alt="Tech Stack Icons" />
+</div>
+
+<br/>
 
 ## 🧑‍💻 About Me
-I am a passionate **Full Stack Developer** building modern web applications and REST APIs.  
-I enjoy solving complex **DSA problems**, creating **efficient systems**, and working on projects that make an impact.
 
-- 🌱 Currently learning **Microservices, Kubernetes, and Advanced Cloud Deployments**
-- 💻 Main Tech Stack: `Java Spring Boot`, `MERN Stack (MongoDB, Express, React, Node.js)`, `SQL/PostgreSQL`, `REST APIs`, `JWT Auth`
-- 📚 Strong foundation in **Data Structures & Algorithms**
-- 🌐 Open to collaborate on **innovative projects**  
+I'm a passionate **Full Stack Developer** crafting modern web applications and robust REST APIs.  
+I love solving tough **DSA problems**, architecting **efficient & scalable systems**, and working on projects with real-world impact.
 
----
+- 🌱 Currently diving deep into **Microservices**, **Kubernetes**, and **Advanced Cloud Deployments**
+- 💻 Core Tech Stack → Java Spring Boot, MERN (MongoDB, Express, React, Node.js), PostgreSQL, REST APIs, JWT Auth
+- 📚 Solid foundation in **Data Structures & Algorithms**
+- 🌐 **Open to collaboration** on innovative & challenging projects!
 
-## 🛠️ Projects
+<br/>
 
-### 1. **Wallet Payment System** 💰
-- **Tech Stack:** Spring Boot, Java, PostgreSQL
-- Features: Wallet management, top-up/withdraw, freeze/unfreeze accounts, email notifications, in-app alerts
-- **Highlights:** Microservices-ready architecture, designed for scalability, asynchronous notifications
-- [GitHub Repo](https://github.com/NoBrain-UI/Wallet_Payment_System)
+## 🛠️ Featured Projects
 
-### 2. **Civic Pulse** 🏛️
-- **Tech Stack:** MERN Stack
-- Platform for civic engagement, community feedback, and reporting issues
-- **Highlights:** Real-time updates, user authentication, dashboard analytics
-- [GitHub Repo](https://github.com/NoBrain-UI/CivicPulse)
+<table>
+  <tr>
+    <th>Project</th>
+    <th>Description</th>
+    <th>Tech Stack</th>
+    <th>Repo</th>
+  </tr>
+  <tr>
+    <td><b>Wallet Payment System</b> 💰</td>
+    <td>Secure wallet app with top-up/withdraw, freeze/unfreeze, email & in-app notifications. Designed for scalability & microservices.</td>
+    <td><img src="https://skillicons.dev/icons?i=java,spring,postgres" width="80"/></td>
+    <td><a href="https://github.com/NoBrain-UI/Wallet_Payment_System">View Repo →</a></td>
+  </tr>
+  <tr>
+    <td><b>Civic Pulse</b> 🏛️</td>
+    <td>Platform for civic engagement, issue reporting & community feedback with real-time updates & analytics dashboard.</td>
+    <td><img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb" width="80"/></td>
+    <td><a href="https://github.com/NoBrain-UI/CivicPulse">View Repo →</a></td>
+  </tr>
+  <tr>
+    <td><b>Portfolio Website</b> 🌐</td>
+    <td>Responsive personal portfolio showcasing projects, skills & contact details.</td>
+    <td><img src="https://skillicons.dev/icons?i=react,html,css,js" width="80"/></td>
+    <td><a href="https://github.com/NoBrain-UI/portfolio">View Repo →</a></td>
+  </tr>
+  <tr>
+    <td><b>Finance Edge</b> 📊</td>
+    <td>Finance analytics dashboard with data visualization, secure auth & powerful reporting.</td>
+    <td><img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb" width="80"/></td>
+    <td><a href="https://github.com/NoBrain-UI/expense-tracker">View Repo →</a></td>
+  </tr>
+</table>
 
-### 3. **Portfolio Website** 🌐
-- **Tech Stack:** React, HTML, CSS, JavaScript
-- Personal portfolio showcasing projects, resume, and contact info
-- **Highlights:** Responsive design, interactive UI
-- [GitHub Repo](https://github.com/NoBrain-UI/portfolio)  
+<br/>
 
-### 4. **Finance Edge** 📊
-- **Tech Stack:** React, Node.js, Express, MongoDB
-- Finance analytics platform with dashboard and reporting features
-- **Highlights:** Data visualization, secure user management, REST APIs
-- [GitHub Repo](https://github.com/NoBrain-UI/expense-tracker)  
+## 📫 Let's Connect!
 
+<div align="center">
+  <a href="https://www.linkedin.com/in/hardyansh-sharma-iiitr">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="mailto:hardyansh.2023ug2066@iiitranchi.ac.in">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</div>
 
-## 📫 Contact Me
-- LinkedIn: [Hardyansh Sharma](https://www.linkedin.com/in/hardyansh-sharma-iiitr)
-- Email: hardyansh.2023ug2066@iiitranchi.ac.in
-
----
+<br/>
 
 ### ⚡ Fun Fact
-I love building **full-stack systems** from scratch and making them **scalable, robust, and production-ready**. in this manner
+
+I geek out over building **full-stack systems from scratch** — turning them into **scalable, robust, production-grade beasts** that can handle real traffic 🚀
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=NoBrain-UI&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+  &nbsp;&nbsp;
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NoBrain-UI&theme=radical&hide_border=true" alt="Streak Stats" />
+</div>
