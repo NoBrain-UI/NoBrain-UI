@@ -87,3 +87,6 @@ I geek out over building **full-stack systems from scratch** — turning them in
   &nbsp;&nbsp;
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=NoBrain-UI&theme=radical&hide_border=true" alt="Streak Stats" />
 </div>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NoBrain-UI&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" />
+</div>
