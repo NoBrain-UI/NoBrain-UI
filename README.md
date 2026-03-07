@@ -1,8 +1,16 @@
 <div align="center">
+  <img src="https://komarev.com/ghpvc/?username=NoBrain-UI&label=Profile%20views&color=36BCF7&style=flat-square" alt="Profile views" />
+  
   <h1>Hi, I'm Hardyansh Sharma! 👋</h1>
   <h3>Pre-Final Year @ IIIT Ranchi | Full Stack Developer | Java Spring Boot & MERN Stack</h3>
   
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Building+modern+web+apps+&+REST+APIs;Passionate+about+scalable+systems;DSA+enthusiast+%F0%9F%92%AA" alt="Typing SVG" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=NoBrain-UI&theme=radical&no-frame=true&margin-w=15&margin-h=15&row=1&column=6" alt="GitHub Trophies" />
 </div>
 
 <br/>
@@ -87,6 +95,29 @@ I geek out over building **full-stack systems from scratch** — turning them in
   &nbsp;&nbsp;
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=NoBrain-UI&theme=radical&hide_border=true" alt="Streak Stats" />
 </div>
+
+<br/>
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NoBrain-UI&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" />
+  <!-- Top Languages - balanced version (should show Java + JS better) -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NoBrain-UI&layout=compact&theme=radical&hide_border=true&langs_count=10&size_weight=0.5&count_weight=0.5&hide=html,css,scss,less" alt="Top Languages" />
 </div>
+
+<!-- Alternative donut style (uncomment if you like it more) -->
+<!-- <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NoBrain-UI&layout=donut&theme=radical&langs_count=8&hide=html,css" alt="Top Languages Donut" />
+</div> -->
+
+<br/>
+
+<!-- Snake contribution graph (setup required - see note below) -->
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NoBrain-UI/NoBrain-UI/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NoBrain-UI/NoBrain-UI/output/github-contribution-grid-snake.svg" />
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/NoBrain-UI/NoBrain-UI/output/github-contribution-grid-snake.svg" />
+  </picture>
+</div>
+
+<!-- Note about snake graph setup -->
+<!-- To enable the snake graph: Follow a quick guide like https://github.com/Platane/snk (add GitHub Action to your profile repo). It auto-generates these SVGs on pushes. -->
