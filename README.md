@@ -73,7 +73,7 @@ I love solving tough **DSA problems**, architecting **efficient & scalable syste
 ## 📫 Let's Connect!
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/hardyansh-sharma-iiitr">
+  <a href="https://www.linkedin.com/in/hardyansh">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   &nbsp;&nbsp;&nbsp;
