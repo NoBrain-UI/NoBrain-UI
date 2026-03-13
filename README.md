@@ -7,6 +7,16 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Building+modern+web+apps+&+REST+APIs;Passionate+about+scalable+systems;DSA+enthusiast+%F0%9F%92%AA" alt="Typing SVG" />
 </div>
 
+<div align="center">
+  <!-- Your existing GitHub stats here -->
+  <img src="https://github-readme-stats.vercel.app/api?username=NoBrain-UI&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+  ...
+</div>
+
+<div align="center">
+  <img src="https://geeks-for-geeks-stats-api.vercel.app/?userName=nobrain" alt="GeeksforGeeks Stats" />
+</div>
+
 <br/>
 
 <div align="center">
