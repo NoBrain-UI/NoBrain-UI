@@ -1,20 +1,10 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=NoBrain-UI&label=Profile%20views&color=36BCF7&style=flat-square" alt="Profile views" />
-  
+ 
   <h1>Hi, I'm Hardyansh Sharma! 👋</h1>
   <h3>Pre-Final Year @ IIIT Ranchi | Full Stack Developer | Java Spring Boot & MERN Stack</h3>
-  
+ 
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Building+modern+web+apps+&+REST+APIs;Passionate+about+scalable+systems;DSA+enthusiast+%F0%9F%92%AA" alt="Typing SVG" />
-</div>
-
-<div align="center">
-  <!-- Your existing GitHub stats here -->
-  <img src="https://github-readme-stats.vercel.app/api?username=NoBrain-UI&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-  ...
-</div>
-
-<div align="center">
-  <img src="https://geeks-for-geeks-stats-api.vercel.app/?userName=nobrain" alt="GeeksforGeeks Stats" />
 </div>
 
 <br/>
@@ -32,7 +22,6 @@
 <br/>
 
 ## 🧑‍💻 About Me
-
 I'm a passionate **Full Stack Developer** crafting modern web applications and robust REST APIs.  
 I love solving tough **DSA problems**, architecting **efficient & scalable systems**, and working on projects with real-world impact.
 
@@ -40,6 +29,37 @@ I love solving tough **DSA problems**, architecting **efficient & scalable syste
 - 💻 Core Tech Stack → Java Spring Boot, MERN (MongoDB, Express, React, Node.js), PostgreSQL, REST APIs, JWT Auth
 - 📚 Solid foundation in **Data Structures & Algorithms**
 - 🌐 **Open to collaboration** on innovative & challenging projects!
+
+<br/>
+
+## 🏆 Coding Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=NoBrain-UI&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+  &nbsp;&nbsp;
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NoBrain-UI&theme=radical&hide_border=true" alt="Streak Stats" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NoBrain-UI&layout=compact&theme=radical&hide_border=true&langs_count=10&size_weight=0.5&count_weight=0.5&hide=html,css,scss,less" alt="Top Languages" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://geeks-for-geeks-stats-api.vercel.app/?userName=nobrain" alt="GeeksforGeeks Stats" />
+</div>
+
+<br/>
+
+<!-- Alternative GFG card if the above doesn't load well -->
+<!-- 
+<div align="center">
+  <img src="https://gfgstatscard.vercel.app/nobrain" alt="GeeksforGeeks Stats (Alternative)" />
+</div>
+-->
 
 <br/>
 
@@ -90,37 +110,19 @@ I love solving tough **DSA problems**, architecting **efficient & scalable syste
   <a href="mailto:hardyansh.2023ug2066@iiitranchi.ac.in">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.geeksforgeeks.org/profile/nobrain">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-nobrain-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks" />
+  </a>
 </div>
 
 <br/>
 
 ### ⚡ Fun Fact
-
 I geek out over building **full-stack systems from scratch** — turning them into **scalable, robust, production-grade beasts** that can handle real traffic 🚀
 
 <br/>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NoBrain-UI&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-  &nbsp;&nbsp;
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NoBrain-UI&theme=radical&hide_border=true" alt="Streak Stats" />
-</div>
-
-<br/>
-
-<div align="center">
-  <!-- Top Languages - balanced version (should show Java + JS better) -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NoBrain-UI&layout=compact&theme=radical&hide_border=true&langs_count=10&size_weight=0.5&count_weight=0.5&hide=html,css,scss,less" alt="Top Languages" />
-</div>
-
-<!-- Alternative donut style (uncomment if you like it more) -->
-<!-- <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NoBrain-UI&layout=donut&theme=radical&langs_count=8&hide=html,css" alt="Top Languages Donut" />
-</div> -->
-
-<br/>
-
-<!-- Snake contribution graph (setup required - see note below) -->
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NoBrain-UI/NoBrain-UI/output/github-contribution-grid-snake-dark.svg" />
@@ -129,5 +131,4 @@ I geek out over building **full-stack systems from scratch** — turning them in
   </picture>
 </div>
 
-<!-- Note about snake graph setup -->
-<!-- To enable the snake graph: Follow a quick guide like https://github.com/Platane/snk (add GitHub Action to your profile repo). It auto-generates these SVGs on pushes. -->
+<!-- Note: Snake graph requires GitHub Action setup (e.g., https://github.com/Platane/snk) -->
