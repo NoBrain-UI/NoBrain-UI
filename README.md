@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Hardyansh%20Sharma&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Backend%20Architect%20%7C%20Open%20Source%20Contributor%20%7C%20Data%20Structures&descAlignY=58&descSize=18&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Hardyansh%20Sharma&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Backend%20Architect%20%7C%20Data%20Structures&descAlignY=58&descSize=18&animation=fadeIn" />
 
 <!-- Typing SVG -->
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3500&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Pre-Final+Year+%40+IIIT+Ranchi+%F0%9F%8F%AB;Java+Spring+Boot+%2B+MERN+Stack+Dev+%F0%9F%9A%80;Building+Scalable+%26+Production-Grade+Systems;550%2B+DSA+Problems+Solved+%F0%9F%94%A5;Open+to+Collaborate+%E2%9C%A8" alt="Typing SVG" />
