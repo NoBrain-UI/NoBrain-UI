@@ -187,36 +187,4 @@ public class Hardyansh extends Developer {
 
 ---
 
-## 🐍 Contribution Graph
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NoBrain-UI/NoBrain-UI/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NoBrain-UI/NoBrain-UI/output/github-contribution-grid-snake.svg" />
-    <img alt="snake animation" src="https://raw.githubusercontent.com/NoBrain-UI/NoBrain-UI/output/github-contribution-grid-snake.svg" />
-  </picture>
-</div>
-
----
-
-<div align="center">
-
-### 💬 Let's Build Something Incredible Together!
-
-<a href="https://www.linkedin.com/in/hardyansh">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-&nbsp;
-<a href="mailto:hardyansh.2019@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Say%20Hello-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-&nbsp;
-<a href="mailto:hardyansh.2023ug2066@iiitranchi.ac.in">
-  <img src="https://img.shields.io/badge/IIIT%20Mail-College%20ID-4A90D9?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
-<br/><br/>
-
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" />
-
-</div>
