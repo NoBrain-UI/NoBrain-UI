@@ -185,19 +185,6 @@ public class Hardyansh extends Developer {
 
 ---
 
-## 🎓 Certifications
-
-<div align="center">
-
-| 🏅 Certificate | 🏢 Issuer |
-|---|---|
-| ☁️ Google Cloud Fundamentals: Core Infrastructure | Google Cloud Skills Boost |
-| 🌱 Spring Boot & RESTful API Development | Coursera / Udemy |
-| 🐘 PostgreSQL for Everybody | University of Michigan (Coursera) |
-| ☕ Java · SQL · Problem Solving | HackerRank (90%+ in all) |
-
-</div>
-
 ---
 
 ## 🐍 Contribution Graph
